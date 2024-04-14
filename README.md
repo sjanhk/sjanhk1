@@ -3,7 +3,7 @@
 ## 课堂练习  
 一个简单的HTML页面示例，包含一个输入框、按钮和一些介绍文字。这个页面包含了一个输入框和一个按钮，用户在输入框中输入关键词并点击按钮时，会触发搜索功能。  
 搜索功能只是简单地显示了一些预定义的搜索结果，可以根据实际情况替换成真实的搜索功能。  
-[课堂练习链接](https://sjanhk1/search_engine.html)  
+[课堂练习链接](https://sjanhk1.github/search_engine.html)  
 ## 课后习题  
 绘制《三体》1-3的人物共现，网页设计时增加放大缩小按钮及文字描述
 大概流程：  
@@ -18,4 +18,4 @@ stage 人物出现在三体小说的哪个阶段
 三体_nodes.csv
 三体_edges.csv  
 最后使用pyechart库实现不错的可视化效果。  
-[课后习题链接](https://sjanhk1/三体_graph.html)
+[课后习题链接](https://sjanhk1.github/三体_graph.html)
